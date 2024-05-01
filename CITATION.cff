@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Trying to Stay Put: Reproductive and Housing Justice During the 2008 Financial Crisis"
+authors:
+  - family-names: UNCERTAIN
+    given-names: UNCERTAIN
+abstract: "Jekyll site for the Trying to Stay Put: Reproductive and Housing Justice During the 2008 Financial Crisis Project @ Boston College"
+version: 0.0.1
+date-released: "2024-4-9"
+license: "CC-BY-NC-SA-4.0"
+repository-code: "https://github.com/BCDigSchol/masquerading-gals"
