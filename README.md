@@ -2,7 +2,7 @@
 
 *Jekyll website for the Trying to Stay Put: Reproductive and Housing Justice During the 2008 Financial Crisis Project @ [Boston College](https://bc.edu)*
 
-By UNCERTAIN
+By Meghan McCoy
 
 ## About
 
